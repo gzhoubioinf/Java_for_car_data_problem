@@ -1,5 +1,7 @@
 # Java_for_car_data_problem
-The Car Shop company sells used cars. The company needs an application where car details such as manufacturer, model, year, mileage, engine size, grade/condition of car (see Table 2), and price are entered. Based on the entered data, the application should produce various reports.![Screen Shot 2023-03-11 at 1 49 43 PM](https://user-images.githubusercontent.com/94352431/224467501-e7ca9222-30e7-43ed-b2bf-705e6af5e538.png)
+The Car Shop company sells used cars. The company needs an application where car details such as manufacturer, model, year, mileage, engine size, grade/condition of car (see Table 2), and price are entered. Based on the entered data, the application should produce various reports.
+
+![Screen Shot 2023-03-11 at 1 49 43 PM](https://user-images.githubusercontent.com/94352431/224467501-e7ca9222-30e7-43ed-b2bf-705e6af5e538.png)
 ![Screen Shot 2023-03-11 at 1 50 11 PM](https://user-images.githubusercontent.com/94352431/224467519-7335342c-6fb2-45ca-8a78-624bef8c82fa.png)
 
 Design and build an application that requires the user to input the car’s data via the 
